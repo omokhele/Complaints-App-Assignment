@@ -1,0 +1,35 @@
+button{
+    /* display: inline-flex; */
+    background-color: blue;
+    color: white;
+    /* border: 50px; */
+    margin-left: 10px;
+    border-color: lightgrey;
+    /* align-items:stretch */
+    
+}
+
+.blank{
+    margin-right: 50px;
+}
+
+body{
+    font-family: "poppins", sans-serif;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.b:hover{
+    background-color: orange;
+}
+
+button:hover{
+    background-color: orange;
+}
+
+div{
+    text-align:justify
+}
